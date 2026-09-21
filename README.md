@@ -11,7 +11,6 @@ This folder contains the code, bundled CIFAR-100 data, and the selected checkpoi
 - `code/`: training and evaluation code.
 - `code/Trainer.py`: SPS trainer implementation based on `Trainer1105True.py`.
 - `code/main.py`: training entry with the CIFAR-100-LT IR=100 defaults.
-- `code/SPS_new.pdf`: paper PDF.
 - `data/cifar-100-python/`: bundled CIFAR-100 files (`train`, `test`, `meta`).
 - `checkpoint/ckpt.best.pth.tar`: selected checkpoint.
 - `checkpoint/log.txt`: training log for the selected checkpoint.
