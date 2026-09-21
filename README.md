@@ -15,7 +15,7 @@ This folder contains the code, bundled CIFAR-100 data, and the selected checkpoi
 - `data/cifar-100-python/`: bundled CIFAR-100 files (`train`, `test`, `meta`).
 - `checkpoint/ckpt.best.pth.tar`: selected checkpoint.
 - `checkpoint/log.txt`: training log for the selected checkpoint.
-  The checkpoint ckpt.best.pth.tar can be find in 
+-  The checkpoint ckpt.best.pth.tar can be find in 
  https://pan.baidu.com/s/1R5auSd48LcHz7BQmY1O63w?pwd=1b89 提取码: 1b89 
 - ## Run
 
